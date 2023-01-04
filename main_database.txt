@@ -1,0 +1,192 @@
+2022-12-27 11:25:50.450845    chesnok None (@chesnokpeter)    Старт
+2022-12-27 11:26:27.958199    chesnok None (@chesnokpeter)    Белгород
+2022-12-27 11:26:51.591882    chesnok None (@chesnokpeter)    Белгород
+2022-12-27 11:26:55.711487    chesnok None (@chesnokpeter)    куравп
+2023-01-03 17:35:02.178174    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:35:09.209794    chesnok None (@chesnokpeter)    /check
+2023-01-03 17:35:15.565428    chesnok None (@chesnokpeter)    /check
+2023-01-03 17:35:20.612214    chesnok None (@chesnokpeter)    /about
+2023-01-03 17:35:28.209096    chesnok None (@chesnokpeter)    /about
+2023-01-03 17:37:01.627799    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:37:05.680836    chesnok None (@chesnokpeter)    /about
+2023-01-03 17:37:08.580179    chesnok None (@chesnokpeter)    /check
+2023-01-03 17:37:10.825230    chesnok None (@chesnokpeter)    message.text
+2023-01-03 17:37:11.975728    chesnok None (@chesnokpeter)    message.text
+2023-01-03 17:37:13.867528    chesnok None (@chesnokpeter)    message.text
+2023-01-03 17:37:32.552462    chesnok None (@chesnokpeter)    fdsgd
+2023-01-03 17:37:33.123240    chesnok None (@chesnokpeter)    gdfg
+2023-01-03 17:37:33.332875    chesnok None (@chesnokpeter)    dfg
+2023-01-03 17:37:33.507752    chesnok None (@chesnokpeter)    df
+2023-01-03 17:37:33.681654    chesnok None (@chesnokpeter)    gdf
+2023-01-03 17:37:33.885644    chesnok None (@chesnokpeter)    g
+2023-01-03 17:37:34.067097    chesnok None (@chesnokpeter)    dfg
+2023-01-03 17:37:35.897452    chesnok None (@chesnokpeter)    fedadgadhdfhfd
+2023-01-03 17:50:30.436367    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:50:40.980627    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:51:23.449617    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:51:32.483290    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:12.991287    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:52:15.071547    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:21.575164    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:22.699732    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:23.404418    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:23.894257    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:52:24.346068    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:53:31.901093    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:53:33.657782    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:58:40.653326    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:58:44.509615    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:58:49.323605    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:58:56.760283    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:58:58.285467    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:58:59.143304    chesnok None (@chesnokpeter)    /file
+2023-01-03 17:59:56.666452    chesnok None (@chesnokpeter)    /start
+2023-01-03 17:59:58.703959    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:00:05.962876    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:00:28.133607    chesnok None (@chesnokpeter)    /start
+2023-01-03 18:00:32.121575    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:09:50.285710    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:11:52.342251    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:11:54.836529    chesnok None (@chesnokpeter)    /start
+2023-01-03 18:11:57.175946    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:31:48.041460    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:32:15.430921    chesnok None (@chesnokpeter)    /start
+2023-01-03 18:32:17.344572    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:32:57.642512    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:33:00.085416    chesnok None (@chesnokpeter)    /file
+2023-01-03 18:33:00.621026    chesnok None (@chesnokpeter)    /start
+2023-01-03 18:33:03.616309    chesnok None (@chesnokpeter)    /file
+2023-01-03 19:05:58.644194    chesnok None (@chesnokpeter)    /file
+2023-01-03 21:56:02.410055    chesnok None (@chesnokpeter)    /start
+2023-01-03 21:58:47.577381    chesnok None (@chesnokpeter)    /start
+2023-01-03 21:59:04.285733    chesnok None (@chesnokpeter)    /file
+2023-01-03 21:59:47.513947    chesnok None (@chesnokpeter)    /start
+2023-01-03 21:59:52.086378    chesnok None (@chesnokpeter)    /about
+2023-01-03 22:01:32.206545    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:01:36.588286    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:03:06.152472    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:03:07.910642    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:03:10.251660    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:03:16.430440    chesnok None (@chesnokpeter)    /about
+2023-01-03 22:04:29.012519    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:04:32.437605    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:04:45.243919    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:04:49.764627    chesnok None (@chesnokpeter)    /ffile
+2023-01-03 22:06:29.880402    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:06:32.751619    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:07:05.650893    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:07:10.320724    chesnok None (@chesnokpeter)    /about
+2023-01-03 22:08:26.838898    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:08:29.656069    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:09:47.320229    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:09:49.293041    chesnok None (@chesnokpeter)    /about
+2023-01-03 22:09:53.248089    chesnok None (@chesnokpeter)    /check
+2023-01-03 22:09:56.888566    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:11:04.868443    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:12:47.813091    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:18:03.364326    chesnok None (@chesnokpeter)    /about
+2023-01-03 22:18:03.365323    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:18:06.211813    chesnok None (@chesnokpeter)    fsdfh
+2023-01-03 22:18:06.648257    chesnok None (@chesnokpeter)    dfhdfh
+2023-01-03 22:18:08.579360    chesnok None (@chesnokpeter)    dfh
+2023-01-03 22:18:21.657384    chesnok None (@chesnokpeter)    a
+2023-01-03 22:20:52.582034    chesnok None (@chesnokpeter)    gcj
+2023-01-03 22:20:54.403917    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:20:58.539571    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:21:34.924897    a None (@None)    /start
+2023-01-03 22:21:45.647870    a None (@None)    /file
+2023-01-03 22:21:53.604930    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:22:11.104525    chesnok None (@chesnokpeter)    /file
+2023-01-03 22:29:27.716816    chesnok None (@chesnokpeter)    /start
+2023-01-03 22:29:30.825028    chesnok None (@chesnokpeter)    /about
+2023-01-03 23:15:55.452470    chesnok None (@chesnokpeter)    /start
+2023-01-03 23:15:55.453022    chesnok None (@chesnokpeter)    /file
+2023-01-03 23:16:00.303333    chesnok None (@chesnokpeter)    /start
+2023-01-03 23:25:10.682553    chesnok None (@chesnokpeter)    /start
+2023-01-03 23:32:35.657880    chesnok None (@chesnokpeter)    /start
+2023-01-03 23:32:37.535229    chesnok None (@chesnokpeter)    /start
+2023-01-03 23:32:43.586141    chesnok None (@chesnokpeter)    /start
+2023-01-04 10:50:03.972470    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:05:37.188651    chesnok None (@chesnokpeter)    👋 Привет chesnok!
+
+🔍Чтобы найти ☁️погоду нажми на кнопку ниже👇 
+
+✅:  "@weaupdbot белгород"
+❌ :  "@weaupdbotбелгород"
+
+👤Также этого бота можно использовать в диалогах
+
+По всем вопросам — @chesnokpeter
+2023-01-04 11:05:39.043427    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:06:12.739184    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:06:31.611648    chesnok None (@chesnokpeter)    ⭐️ В городе белгород
+
+☁️ Сейчас облачно с прояснениями
+💡 Температура: 3.4° С
+🌬 Скорость вертра: 8 м/с
+💧 Влажность: 75%
+2023-01-04 11:06:48.888726    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:06:56.807136    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:08:06.862755    chesnok None (@chesnokpeter)    ⭐️ В городе белгород
+
+☁️ Сейчас облачно с прояснениями
+💡 Температура: 3.4° С
+🌬 Скорость вертра: 8 м/с
+💧 Влажность: 75%
+2023-01-04 11:08:54.958040    chesnok None (@chesnokpeter)    ⭐️ В городе белгород
+
+☁️ Сегодня днём облачно с прояснениями
+💡 Температура: 3.0° С
+🌬 Скорость ветра: 7.0 м/с
+💧 Влажность: 73%
+2023-01-04 11:11:01.774083    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:14:10.161464    chesnok None (@chesnokpeter)    /file
+2023-01-04 11:14:49.599235    chesnok None (@chesnokpeter)    /about
+2023-01-04 11:28:39.976135    chesnok None (@chesnokpeter)    Это бот с которым ты можешь отправлять 👥людям погоду ⛅️
+
+by_chesnok
+2023-01-04 11:28:42.011577    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:28:43.648643    chesnok None (@chesnokpeter)    /about
+2023-01-04 11:29:02.650819    chesnok None (@chesnokpeter)    by_@chesnokpeter
+2023-01-04 11:31:43.989596    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:33:24.794047    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:33:32.238175    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:33:47.312649    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:34:01.305903    chesnok None (@chesnokpeter)    ⭐️ В городе белгород
+
+☁️ Сейчас облачно с прояснениями
+💡 Температура: 3.4° С
+🌬 Скорость вертра: 7 м/с
+💧 Влажность: 75%
+2023-01-04 11:34:07.952195    chesnok None (@chesnokpeter)    ⭐️ В городе белгород
+
+☁️ Завтра днём снег
+💡 Температура: 0.4° С
+🌬 Скорость ветра: 7.0 м/с
+💧 Влажность: 97%
+2023-01-04 11:35:47.298919    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:36:01.287798    chesnok None (@chesnokpeter)    ⭐️ В городе belgorod
+
+☁️ Послезавтра днём небольшой снег
+💡 Температура: -6.4° С
+🌬 Скорость ветра: 8.0 м/с
+💧 Влажность: 87%
+2023-01-04 11:36:43.879228    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:38:56.703832    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:38:59.845530    chesnok None (@chesnokpeter)    /file
+2023-01-04 11:41:12.022393    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:41:15.902534    chesnok None (@chesnokpeter)    ыяаыати
+2023-01-04 11:41:18.166533    chesnok None (@chesnokpeter)    /about
+2023-01-04 11:41:20.085973    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:41:37.605968    a None (@None)    /start
+2023-01-04 11:43:54.272514    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:45:03.602330    chesnok None (@chesnokpeter)    /start
+2023-01-04 11:45:05.558925    chesnok None (@chesnokpeter)    вяпяпя
+2023-01-04 11:49:10.261896    Rock None (@Kiska668)    /start
+2023-01-04 11:49:49.832251    Rock None (@Kiska668)    ⭐️ В городе валуйки
+
+☁️ Сейчас пасмурно
+💡 Температура: 4.5° С
+🌬 Скорость вертра: 7.0 м/с
+💧 Влажность: 79%
+2023-01-04 12:04:50.840333    chesnok None (@chesnokpeter)    /start
