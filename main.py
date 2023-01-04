@@ -13,7 +13,7 @@ config_dict['connection']["verify_ssl_certs"] = False
 owm = OWM('a99967bc9ee70d5b4bd387902982f400')
 mgr = owm.weather_manager()
 # ---------- other param ----------
-bot = telebot.TeleBot("5935491282:AAH9VWRtxTkgvKi7JAv2jH_AsnbdUeU2nos")
+bot = telebot.TeleBot("key")
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36'}
 # ---------- function param ----------
 def getWeatherto (weather, times):
