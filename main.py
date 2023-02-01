@@ -201,18 +201,7 @@ if __name__=='__main__':
                 f.write(f'{datetime.datetime.now()}    {message.from_user.first_name} {message.from_user.last_name} (@{message.from_user.username})    {message.text}\n')
                 f.close()
 
-            # @bot.message_handler(content_types=['text'])
-            # def send_echo(message):
-            #     try:
-            #         observation = mgr.weather_at_place(message.text)
-            #         w = observation.weather
-            #         temp = w.temperature('celsius')["temp"]
-            #         wind = w.wind()['speed']
-            #         answer = f"⭐️ В городе {message.text}\n\n☁️ Сейчас {w.detailed_status}\n💡 Температура: {round(temp, 1)}° С\n🌬 Скорость вертра: {round(wind, 0)} м/с\n💧 Влажность: {w.humidity}%"
-            #     except:
-            #         answer = "ошыбка"
-            #     finally:
-            #         bot.send_message(message.chat.id, answer)
+
 
             bot.polling(none_stop=True, interval=0)
         except Exception as e:
