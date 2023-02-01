@@ -10,7 +10,7 @@ config_dict = get_default_config()
 config_dict["language"] = "RU"
 config_dict['connection']['use_ssl'] = False
 config_dict['connection']["verify_ssl_certs"] = False
-owm = OWM('a99967bc9ee70d5b4bd387902982f400')
+owm = OWM('')
 mgr = owm.weather_manager()
 # ---------- other param ----------
 bot = telebot.TeleBot("key")
